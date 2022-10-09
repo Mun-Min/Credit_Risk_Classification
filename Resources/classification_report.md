@@ -88,7 +88,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-### <font size = "1"><h1 align="center"> Logistic Regression Model fitted with Imbalanced Data: </h1></font>
+### <h1 align="center"><span style = "font-size:18px"> Logistic Regression Model fitted with Imbalanced Data: </h1></span>
 
 </br>
 
@@ -113,7 +113,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-### <font size = "1"><h1 align="center"> Logistic Regression Model fitted with OverSampled (Balanced) Data: </h1></font>
+### <h1 align="center"><span style = "font-size:18px"> Logistic Regression Model fitted with OverSampled (Balanced) Data: </h1></span>
 
 </br>
 
