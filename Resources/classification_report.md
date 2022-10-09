@@ -24,7 +24,7 @@ Lending companies lend money/properties to borrowers with the expectation that t
 
 </br>
 
-* Using a machine learning model, we will try to determine which loans are healthy (low-risk) or non-healthy (high-risk) based on the loan status provided by the lending company. 
+* Using a machine learning model, I will try to determine which loans are healthy (low-risk) or non-healthy (high-risk) based on the loan status provided by the lending company. 
 
   * The Logistic Regression Algorithm is the best tool to use for our machine learning model since it is widely used to predict the probability of a target variable in classification problems.  
 
