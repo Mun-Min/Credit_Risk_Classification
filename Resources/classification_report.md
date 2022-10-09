@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="../Images/credit_risk.jpg" alt="credit risk image">
+  <img src="../Images/credit_risk.jpg" alt="credit risk image" height = 400 width = 800>
 
 </p>
 
