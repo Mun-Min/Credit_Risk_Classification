@@ -121,7 +121,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-* The model fitted with imbalanced data has a much lower possibility of making these mistakes: 
+* The model fitted with balanced (oversampled) data has a much lower possibility of making these mistakes: 
 
   * a healthy loan (low-risk) is classified as a non-healthy loan (high-risk)
   * a non-healthy loan (high-risk) is classified as a healthy loan (low-risk)
