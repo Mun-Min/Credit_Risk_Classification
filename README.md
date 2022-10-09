@@ -88,7 +88,9 @@ Structure your report by using the report template that `Starter_Code.zip` inclu
 
 2. The results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of both machine learning models.
 
-3. A summary: Summarize the results from the machine learning models. Compare the two versions of the dataset predictions. Include your recommendation, if any, for the model to use the original vs. the resampled data. If you don’t recommend either model, justify your reasoning.
+3. A summary: Summarize the results from the machine learning models. Compare the two versions of the dataset predictions. Include your recommendation, if any, for the model to use the original vs. the resampled data. If you don’t recommend either model, justify your reasoning. 
+
+#### --> [Credit Risk Analysis Report](https://github.com/Mun-Min/Pandas_Portfolio_Analysis/tree/main/Resources)
 
 - - -
 
