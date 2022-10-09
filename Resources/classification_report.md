@@ -168,6 +168,6 @@ Name: loan_status, dtype: int64
 
   * 116 (FALSE NEGATIVES) --> The actual value is non-healthy and the predicted value is healthy
   
-`According to the confusion matrices, the number of False Postives drastically decreases indicating the model will classify healthy & non-healthy loans correctly .`
+`According to the confusion matrices, the number of False Postives drastically decreases indicating the model will classify healthy & non-healthy loans correctly. Based off of this analysis, I would recommend using Model 2 (Logistic Regression Model fitted with Balanced (oversampled) data.`
 
 ---
