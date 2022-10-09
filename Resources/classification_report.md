@@ -103,7 +103,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-`According to the models recall scores, The model made 1% of mistakes when predicting healthy loans and made 9% of mistakes when predicted non-healthy loans.`
+`According to the models recall scores, the model made 1% of mistakes when predicting healthy loans and made 9% of mistakes when predicted non-healthy loans.`
 
 ![Classification Report of Imbalanced DataSet](/Images/classification_report_imbalanced.png)
 
@@ -128,7 +128,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-`According to the models recall scores, The model made 1% of mistakes when predicting healthy loans and made 1% of mistakes when predicted non-healthy loans.`
+`According to the models recall scores, the model made 1% of mistakes when predicting healthy loans and made 1% of mistakes when predicted non-healthy loans.`
 
 ![Classification Report of Imbalanced DataSet](/Images/classification_report_balanced.png)
 
