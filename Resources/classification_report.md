@@ -31,7 +31,9 @@ Lending companies lend money/properties to borrowers with the expectation that t
 </br>
 
 * Using the dataset provided by the lending company, I created a Logistic Regression Model that generated an accuracy score of 95%. Although the model generated a high-accuracy, the models recall value (0.91) for non-healthy loans is lower than the recall value (0.99) for healthy loans. This indicates that the model will predict loan status's as healthy better than being able to predict loan status's as non-healthy. This is due to the dataset being imbalanced, meaning that most of the data belongs to one class label (in this case healthy loans greatly outweighed non-healthy loans).
- 
+
+</br>
+
 `Taking a look at the code in step 3 [Split the Data into Training and Testing Sets], using the value_counts function, we are able to see that the data is highly imbalanced. The majority class is healthy loans [0] and the minority class is non-healthy loans [1]:`
 
 ```
@@ -86,7 +88,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-### <h1 align="center"><u> Logistic Regression Model fitted with Imbalanced Data: </u></h1>
+### <font size = "1"><h1 align="center"> Logistic Regression Model fitted with Imbalanced Data: </h1></font>
 
 </br>
 
@@ -111,7 +113,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-### <h1 align="center"><u> Logistic Regression Model fitted with OverSampled (Balanced) Data: </u></h1>
+### <font size = "1"><h1 align="center"> Logistic Regression Model fitted with OverSampled (Balanced) Data: </h1></font>
 
 </br>
 
