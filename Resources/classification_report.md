@@ -1,10 +1,12 @@
 # Credit Risk Analysis Report
 
-<div style = "text-align: center;">
+<p align="center">
 
-<img src="../Images/credit_risk.jpg" alt="credit risk image" width="800" height = "450" />
+  <img src="../Images/credit_risk.jpg" alt="credit risk image">
 
-</div>
+</p>
+
+
 
 </br>
 
@@ -14,7 +16,7 @@
 
 3. [Summary](#summary)
 
----
+</br>
 
 ## **Overview of the Analysis**
 
@@ -80,8 +82,6 @@ Name: loan_status, dtype: int64
 
 </br>
 
----
-
 ## **Results**
 
 </br>
@@ -135,8 +135,6 @@ Name: loan_status, dtype: int64
 ![Accuracy Score of Imbalanced DataSet](/Images/accuracy_score_balanced_dataset.png)
 
 </br>
-
----
 
 ## **Summary**
 
