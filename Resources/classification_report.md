@@ -6,9 +6,9 @@
 
 </p>
 
-
-
 </br>
+
+## Table of Contents: 
 
 1. [Overview of the Analysis](#overview-of-the-analysis)
 
@@ -86,7 +86,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-### <u> Logistic Regression Model fitted with Imbalanced Data: </u>
+### <h1 align="center"><u> Logistic Regression Model fitted with Imbalanced Data: </u></h1>
 
 </br>
 
@@ -111,7 +111,7 @@ Name: loan_status, dtype: int64
 
 </br>
 
-### <u> Logistic Regression Model fitted with OverSampled (Balanced) Data: </u>
+### <h1 align="center"><u> Logistic Regression Model fitted with OverSampled (Balanced) Data: </u></h1>
 
 </br>
 
